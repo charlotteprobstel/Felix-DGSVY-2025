@@ -1,0 +1,8 @@
+Auto EDA Analysis - 2025-09-05 16:25:28.959164
+==================================================
+
+Dataset shape: (390, 84)
+Total plots generated: 39
+
+Execution Log:
+- Error creating dashboards: EDAVisualiser.comprehensive_eda_dashboard() got an unexpected keyword argument 'title'

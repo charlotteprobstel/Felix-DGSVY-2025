@@ -1,0 +1,216 @@
+{
+  "eda_visualiser_data_type_requirements": {
+    "basic_plots": {
+      "histogram": {
+        "column": "numeric (int, float)",
+        "description": "Creates histogram with optional KDE overlay"
+      },
+      "scatter_plot": {
+        "x": "numeric (int, float)",
+        "y": "numeric (int, float)",
+        "hue": "any (categorical preferred)",
+        "size": "numeric (int, float)",
+        "description": "Creates scatter plot with optional color and size mapping"
+      },
+      "line_plot": {
+        "x": "numeric or datetime",
+        "y": "numeric (int, float)",
+        "hue": "any (categorical preferred)",
+        "description": "Creates line plot for time series or sequential data"
+      },
+      "bar_plot": {
+        "x": "categorical (string, category)",
+        "y": "numeric (int, float) - optional",
+        "hue": "categorical (string, category)",
+        "description": "Creates bar plot for categorical data"
+      }
+    },
+    "distribution_plots": {
+      "box_plot": {
+        "x": "categorical (string, category) - optional",
+        "y": "numeric (int, float)",
+        "hue": "categorical (string, category)",
+        "description": "Creates box plot for distribution analysis"
+      },
+      "violin_plot": {
+        "x": "categorical (string, category) - optional",
+        "y": "numeric (int, float)",
+        "hue": "categorical (string, category)",
+        "description": "Creates violin plot for distribution analysis"
+      },
+      "density_plot": {
+        "columns": "list of numeric columns (int, float)",
+        "description": "Creates density plots for multiple variables"
+      },
+      "distribution_comparison": {
+        "column": "numeric (int, float)",
+        "by": "categorical (string, category) - optional",
+        "description": "Creates comprehensive distribution comparison"
+      }
+    },
+    "correlation_relationship_plots": {
+      "correlation_heatmap": {
+        "data": "numeric columns only (int, float)",
+        "method": "string ('pearson', 'spearman', 'kendall')",
+        "description": "Creates correlation heatmap"
+      },
+      "pair_plot": {
+        "data": "numeric columns (int, float)",
+        "hue": "categorical (string, category)",
+        "description": "Creates pair plot for multiple variables"
+      },
+      "scatter_matrix": {
+        "columns": "list of numeric columns (int, float)",
+        "description": "Creates scatter matrix with correlation coefficients"
+      }
+    },
+    "advanced_statistical_plots": {
+      "regression_plot": {
+        "x": "numeric (int, float)",
+        "y": "numeric (int, float)",
+        "hue": "categorical (string, category)",
+        "description": "Creates regression plot with confidence intervals"
+      },
+      "residual_plot": {
+        "x": "numeric (int, float)",
+        "y": "numeric (int, float)",
+        "description": "Creates residual plots for regression diagnostics"
+      },
+      "qq_plot": {
+        "column": "numeric (int, float)",
+        "distribution": "string (distribution name)",
+        "description": "Creates Q-Q plot for normality testing"
+      },
+      "outlier_detection_plot": {
+        "columns": "list of numeric columns (int, float)",
+        "method": "string ('iqr', 'zscore')",
+        "description": "Creates comprehensive outlier detection visualization"
+      },
+      "statistical_summary_plot": {
+        "column": "numeric (int, float)",
+        "description": "Creates comprehensive statistical summary visualization"
+      }
+    },
+    "time_series_plots": {
+      "time_series_plot": {
+        "date_col": "datetime or string (convertible to datetime)",
+        "value_cols": "string or list of numeric columns (int, float)",
+        "resample_freq": "string (pandas frequency) - optional",
+        "rolling_window": "int - optional",
+        "description": "Creates comprehensive time series visualization"
+      },
+      "seasonal_decomposition_plot": {
+        "date_col": "datetime or string (convertible to datetime)",
+        "value_col": "numeric (int, float)",
+        "period": "int (seasonal period)",
+        "description": "Creates seasonal decomposition plot"
+      }
+    },
+    "categorical_plots": {
+      "categorical_analysis": {
+        "cat_col": "categorical (string, category)",
+        "num_col": "numeric (int, float) - optional",
+        "description": "Creates comprehensive categorical analysis"
+      }
+    },
+    "interactive_plots_plotly": {
+      "interactive_scatter": {
+        "x": "numeric (int, float)",
+        "y": "numeric (int, float)",
+        "color": "any (categorical preferred)",
+        "size": "numeric (int, float)",
+        "hover_data": "list of column names",
+        "description": "Creates interactive scatter plot using Plotly"
+      },
+      "interactive_line_plot": {
+        "x": "numeric or datetime",
+        "y": "numeric (int, float)",
+        "color": "any (categorical preferred)",
+        "description": "Creates interactive line plot using Plotly"
+      },
+      "interactive_histogram": {
+        "column": "numeric (int, float)",
+        "nbins": "int",
+        "description": "Creates interactive histogram using Plotly"
+      },
+      "interactive_box_plot": {
+        "x": "categorical (string, category)",
+        "y": "numeric (int, float)",
+        "color": "categorical (string, category)",
+        "description": "Creates interactive box plot using Plotly"
+      },
+      "interactive_3d_scatter": {
+        "x": "numeric (int, float)",
+        "y": "numeric (int, float)",
+        "z": "numeric (int, float)",
+        "color": "any (categorical preferred)",
+        "size": "numeric (int, float)",
+        "description": "Creates interactive 3D scatter plot using Plotly"
+      }
+    },
+    "complex_dashboard_plots": {
+      "comprehensive_eda_dashboard": {
+        "data": "mixed data types (auto-detects column types)",
+        "target_col": "any - optional",
+        "max_cols": "int",
+        "description": "Creates comprehensive EDA dashboard with multiple visualizations"
+      },
+      "comparison_dashboard": {
+        "data1": "DataFrame with numeric columns",
+        "data2": "DataFrame with numeric columns",
+        "columns": "list of common numeric columns - optional",
+        "label1": "string",
+        "label2": "string",
+        "description": "Creates dashboard comparing two datasets"
+      },
+      "feature_importance_dashboard": {
+        "data": "DataFrame with numeric features",
+        "target_col": "numeric (regression) or categorical (classification)",
+        "top_n": "int",
+        "description": "Creates feature importance analysis dashboard"
+      },
+      "missing_data_analysis": {
+        "data": "any data types",
+        "description": "Creates comprehensive missing data analysis"
+      }
+    },
+    "utility_functions": {
+      "save_all_plots": {
+        "plots_dict": "dictionary with plot names as keys and figure objects as values",
+        "output_dir": "string (directory path)",
+        "dpi": "int",
+        "format": "string ('png', 'jpg', 'svg', 'pdf')",
+        "description": "Saves multiple plots to files"
+      },
+      "create_custom_subplot_layout": {
+        "plot_functions": "list of tuples (function_name, kwargs)",
+        "layout": "tuple (rows, cols)",
+        "titles": "list of strings - optional",
+        "description": "Creates custom subplot layout with different plot types"
+      }
+    },
+    "theme_customization": {
+      "update_theme": {
+        "color_palette": "string or list of colors",
+        "font_family": "string",
+        "font_size": "int",
+        "style": "string ('whitegrid', 'darkgrid', 'white', 'dark', 'ticks')",
+        "description": "Updates theme settings dynamically"
+      }
+    }
+  },
+  "common_data_type_checks": {
+    "check_column_dtype": "df['column'].dtype",
+    "check_actual_value_types": "df['column'].apply(type).value_counts()",
+    "check_for_specific_types": "df['column'].apply(lambda x: isinstance(x, type)).sum()",
+    "infer_dtype": "pd.api.types.infer_dtype(df['column'])",
+    "check_all_columns": "df.dtypes or df.info()"
+  },
+  "data_type_categories": {
+    "numeric": ["int8", "int16", "int32", "int64", "uint8", "uint16", "uint32", "uint64", "float16", "float32", "float64"],
+    "categorical": ["object", "category", "string"],
+    "datetime": ["datetime64", "timedelta64", "period"],
+    "boolean": ["bool"],
+    "mixed": "Columns containing multiple data types"
+  }
+}
