@@ -4,6 +4,11 @@ import subprocess
 
 if __name__ == "__main__":
 
-    # Start with cleaning the data
-    subprocess.run(['python', 'clean_data.py'])
+    # List of module directories to run
+    modules = ["about_you", "drinking", "nicotine", "sd"]
+
+    for module in modules:
+        print(f"Running module: {module}")
+        subprocess.run(["python3", f"{module}/{module}.py"])
+        print(f"Finished module: {module}\n")
 

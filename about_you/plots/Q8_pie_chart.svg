@@ -1,0 +1,1367 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="565.670917pt" height="566.534375pt" viewBox="0 0 565.670917 566.534375" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2025-09-18T22:40:57.608054</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.3, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 566.534375 
+L 565.670917 566.534375 
+L 565.670917 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2"/>
+   <g id="patch_2">
+    <path d="M 298.636349 58.678267 
+C 263.870089 58.678267 229.518126 66.257351 197.979441 80.886231 
+C 166.440755 95.515111 138.467016 116.845133 116.01178 143.386708 
+C 93.556544 169.928283 77.154992 201.048838 67.952532 234.57506 
+C 58.750072 268.101282 56.966029 303.234131 62.724991 337.520093 
+C 68.483953 371.806055 81.648667 404.427983 101.299769 433.107715 
+C 120.950871 461.787446 146.620012 485.84145 176.514578 503.589906 
+C 206.409145 521.338362 239.816653 532.358267 274.404078 535.880042 
+C 308.991502 539.401817 343.934512 535.341527 376.79285 523.982723 
+L 314.267649 343.112074 
+C 307.695982 345.383834 300.70738 346.195892 293.789895 345.491537 
+C 286.87241 344.787182 280.190908 342.583201 274.211995 339.03351 
+C 268.233082 335.483819 263.099253 330.673018 259.169033 324.937072 
+C 255.238813 319.201125 252.60587 312.67674 251.454078 305.819547 
+C 250.302285 298.962355 250.659094 291.935785 252.499586 285.230541 
+C 254.340078 278.525297 257.620388 272.301185 262.111435 266.99287 
+C 266.602483 261.684555 272.19723 257.418551 278.504967 254.492775 
+C 284.812705 251.566999 291.683097 250.051182 298.636349 250.051182 
+z
+" style="fill: #1b365d; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 376.792805 523.982738 
+C 419.279609 509.295481 456.778114 482.925182 484.969111 447.909291 
+C 513.160107 412.8934 530.917966 370.629954 536.197208 325.98721 
+L 346.148521 303.512971 
+C 345.092673 312.44152 341.541101 320.894209 335.902902 327.897387 
+C 330.264702 334.900565 322.765001 340.174625 314.26764 343.112077 
+z
+" style="fill: #800020; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 536.197208 325.98721 
+C 538.709537 304.742325 538.360634 283.256048 535.159924 262.103926 
+C 531.959214 240.951806 525.935513 220.324353 517.250099 200.773893 
+L 342.359099 278.470307 
+C 344.096182 282.380399 345.300922 286.50589 345.941064 290.736314 
+C 346.581206 294.966738 346.650987 299.263994 346.148521 303.512971 
+z
+" style="fill: #2f4f4f; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 517.250099 200.773893 
+C 511.991161 188.93629 505.779421 177.545359 498.676175 166.7135 
+C 491.572928 155.881641 483.601602 145.644599 474.840861 136.103396 
+L 333.877251 265.536208 
+C 335.6294 267.444449 337.223665 269.491857 338.644314 271.658229 
+C 340.064964 273.824601 341.307312 276.102787 342.359099 278.470307 
+z
+" style="stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 474.840861 136.103396 
+C 467.39537 127.994605 459.399021 120.409425 450.908818 113.401966 
+C 442.418615 106.394508 433.454819 99.981482 424.081365 94.2086 
+L 323.725352 257.157249 
+C 325.600043 258.311825 327.392802 259.59443 329.090843 260.995922 
+C 330.788884 262.397414 332.388153 263.91445 333.877251 265.536208 
+z
+" style="fill: #4f4f4f; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 424.081365 94.2086 
+C 418.017592 90.474071 411.790081 87.01219 405.417435 83.833295 
+C 399.044789 80.654401 392.533359 77.761658 385.902614 75.163722 
+L 316.089602 253.348273 
+C 317.415751 253.86786 318.718037 254.446409 319.992566 255.082188 
+C 321.267096 255.717967 322.512598 256.410343 323.725352 257.157249 
+z
+" style="fill: #8b0000; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 385.902614 75.163722 
+C 379.874828 72.802018 373.753657 70.685987 367.554215 68.820861 
+C 361.354772 66.955735 355.082159 65.343039 348.751893 63.986752 
+L 308.659458 251.112879 
+C 309.925511 251.384137 311.180034 251.706676 312.419922 252.079701 
+C 313.659811 252.452726 314.884045 252.875933 316.089602 253.348273 
+z
+" style="fill: #191970; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 348.751893 63.986752 
+C 344.321018 63.037429 339.864066 62.214178 335.386424 61.518026 
+C 330.908782 60.821874 326.412273 60.253092 321.902324 59.812365 
+L 303.289544 250.278002 
+C 304.191534 250.366147 305.090836 250.479904 305.986364 250.619134 
+C 306.881893 250.758364 307.773283 250.923015 308.659458 251.112879 
+z
+" style="fill: #1b365d; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 321.902324 59.812365 
+C 318.036731 59.434604 314.162565 59.151075 310.283165 58.961966 
+C 306.403764 58.772857 302.520275 58.678267 298.636268 58.678267 
+L 298.636333 250.051182 
+C 299.413134 250.051182 300.189832 250.0701 300.965712 250.107922 
+C 301.741592 250.145744 302.516426 250.20245 303.289544 250.278002 
+z
+" style="fill: #800020; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <!-- Heterosexual -->
+    <g style="fill: #262626" transform="translate(7.2 340.053739) scale(0.1 -0.1)">
+     <defs>
+      <path id="DINAlternate-Bold-48" d="M 2975 0 
+L 3666 0 
+L 3666 4556 
+L 2975 4556 
+L 2975 2603 
+L 1172 2603 
+L 1172 4556 
+L 481 4556 
+L 481 0 
+L 1172 0 
+L 1172 1991 
+L 2975 1991 
+L 2975 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="DINAlternate-Bold-65" d="M 2938 1375 
+L 2938 1913 
+Q 2931 2553 2541 2919 
+Q 2156 3278 1600 3284 
+Q 1369 3284 1131 3200 
+Q 891 3116 697 2925 
+Q 506 2738 384 2413 
+Q 263 2094 263 1613 
+Q 263 1113 403 800 
+Q 531 475 738 294 
+Q 844 206 966 147 
+Q 1081 78 1203 38 
+Q 1447 -38 1703 -38 
+Q 2375 -44 2872 488 
+L 2400 891 
+L 2400 891 
+Q 2088 575 1691 575 
+Q 1350 575 1141 781 
+Q 916 984 916 1375 
+L 2938 1375 
+z
+M 916 1913 
+Q 934 2291 1119 2484 
+Q 1306 2669 1600 2669 
+Q 1894 2669 2081 2484 
+Q 2272 2291 2284 1913 
+L 916 1913 
+z
+" transform="scale(0.015625)"/>
+      <path id="DINAlternate-Bold-74" d="M 459 3244 
+L 134 3244 
+L 134 2747 
+L 459 2747 
+L 459 800 
+Q 459 416 684 213 
+Q 903 0 1247 0 
+L 1588 0 
+L 1588 616 
+L 1344 616 
+Q 1106 609 1113 856 
+L 1113 2747 
+L 1588 2747 
+L 1588 3244 
+L 1113 3244 
+L 1113 4231 
+L 459 4231 
+L 459 3244 
+z
+" transform="scale(0.015625)"/>
+      <path id="DINAlternate-Bold-72" d="M 422 0 
+L 1075 0 
+L 1075 1953 
+Q 1081 2309 1281 2469 
+Q 1459 2631 1709 2631 
+Q 1931 2631 2138 2469 
+L 2138 2469 
+L 2613 3034 
+Q 2322 3278 1931 3284 
+Q 1409 3284 1088 2900 
+L 1075 2900 
+L 1075 3244 
+L 422 3244 
+L 422 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="DINAlternate-Bold-6f" d="M 263 1625 
+Q 263 1113 347 844 
+Q 434 575 616 378 
+Q 750 225 991 103 
+Q 1228 -31 1600 -38 
+Q 1984 -31 2222 103 
+Q 2350 159 2431 238 
+Q 2522 306 2584 378 
+Q 2778 575 2859 844 
+Q 2938 1113 2938 1625 
+Q 2938 2138 2859 2413 
+Q 2778 2681 2584 2866 
+Q 2456 3028 2222 3156 
+Q 1984 3278 1600 3284 
+Q 1228 3278 991 3156 
+Q 750 3028 616 2866 
+Q 434 2681 347 2413 
+Q 263 2138 263 1625 
+L 263 1625 
+z
+M 2284 1619 
+Q 2284 1288 2253 1131 
+Q 2222 972 2125 850 
+Q 2053 756 1913 684 
+Q 1778 616 1600 616 
+Q 1434 616 1294 684 
+Q 1159 756 1075 850 
+Q 991 972 953 1131 
+Q 916 1288 916 1625 
+Q 916 1966 953 2125 
+Q 991 2278 1075 2394 
+Q 1159 2503 1294 2566 
+Q 1434 2631 1600 2631 
+Q 1778 2631 1913 2566 
+Q 2053 2503 2125 2394 
+Q 2222 2278 2253 2125 
+Q 2284 1966 2284 1619 
+L 2284 1619 
+z
+" transform="scale(0.015625)"/>
+      <path id="DINAlternate-Bold-73" d="M 519 991 
+L 63 544 
+Q 697 -38 1491 -38 
+Q 2075 -31 2450 231 
+Q 2828 488 2834 959 
+Q 2834 1363 2625 1625 
+Q 2400 1894 1894 1931 
+L 1356 1972 
+Q 1119 1997 1025 2088 
+Q 922 2169 928 2278 
+Q 928 2450 1056 2559 
+Q 1178 2669 1484 2669 
+Q 1753 2669 1959 2591 
+Q 2169 2503 2356 2369 
+L 2356 2369 
+L 2759 2841 
+Q 2522 3047 2222 3169 
+Q 2066 3225 1888 3256 
+Q 1709 3284 1484 3284 
+Q 966 3284 628 3034 
+Q 281 2784 275 2284 
+Q 281 1869 544 1638 
+Q 800 1400 1209 1363 
+L 1784 1313 
+Q 1966 1306 2075 1234 
+Q 2181 1166 2181 991 
+Q 2181 794 2003 684 
+Q 1825 575 1544 575 
+Q 916 575 519 991 
+L 519 991 
+z
+" transform="scale(0.015625)"/>
+      <path id="DINAlternate-Bold-78" d="M 1172 1656 
+L 63 0 
+L 844 0 
+L 1534 1081 
+L 1534 1081 
+L 2228 0 
+L 3006 0 
+L 1900 1656 
+L 2963 3244 
+L 2181 3244 
+L 1534 2194 
+L 1534 2194 
+L 891 3244 
+L 109 3244 
+L 1172 1656 
+z
+" transform="scale(0.015625)"/>
+      <path id="DINAlternate-Bold-75" d="M 422 1088 
+Q 428 538 781 256 
+Q 1106 -31 1509 -38 
+Q 2028 -38 2350 347 
+L 2363 347 
+L 2363 0 
+L 3016 0 
+L 3016 3244 
+L 2363 3244 
+L 2363 1313 
+Q 2363 984 2181 800 
+Q 2003 616 1722 616 
+Q 1441 616 1259 800 
+Q 1075 984 1075 1313 
+L 1075 3244 
+L 422 3244 
+L 422 1088 
+z
+" transform="scale(0.015625)"/>
+      <path id="DINAlternate-Bold-61" d="M 2125 0 
+L 2778 0 
+L 2778 2216 
+Q 2772 2809 2406 3053 
+Q 2041 3291 1428 3284 
+Q 703 3297 331 2809 
+L 844 2419 
+L 844 2419 
+Q 928 2559 1075 2619 
+Q 1216 2669 1459 2669 
+Q 2131 2681 2125 2253 
+L 2125 1913 
+L 1222 1913 
+Q 703 1906 434 1631 
+Q 166 1363 166 953 
+Q 166 525 475 250 
+Q 769 -31 1313 -38 
+Q 1644 -38 1831 44 
+Q 2022 122 2113 288 
+L 2125 288 
+L 2125 0 
+z
+M 2125 1141 
+Q 2125 775 1972 672 
+Q 1803 569 1394 575 
+Q 1069 575 928 703 
+Q 781 819 781 984 
+Q 775 1363 1344 1375 
+L 2125 1375 
+L 2125 1141 
+z
+" transform="scale(0.015625)"/>
+      <path id="DINAlternate-Bold-6c" d="M 422 788 
+Q 422 359 666 178 
+Q 897 0 1253 0 
+L 1544 0 
+L 1544 616 
+L 1319 616 
+Q 1075 616 1075 838 
+L 1075 4556 
+L 422 4556 
+L 422 788 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#DINAlternate-Bold-48"/>
+     <use xlink:href="#DINAlternate-Bold-65" transform="translate(64.794922 0)"/>
+     <use xlink:href="#DINAlternate-Bold-74" transform="translate(114.794922 0)"/>
+     <use xlink:href="#DINAlternate-Bold-65" transform="translate(142.578125 0)"/>
+     <use xlink:href="#DINAlternate-Bold-72" transform="translate(192.578125 0)"/>
+     <use xlink:href="#DINAlternate-Bold-6f" transform="translate(229.744141 0)"/>
+     <use xlink:href="#DINAlternate-Bold-73" transform="translate(279.744141 0)"/>
+     <use xlink:href="#DINAlternate-Bold-65" transform="translate(327.742188 0)"/>
+     <use xlink:href="#DINAlternate-Bold-78" transform="translate(377.742188 0)"/>
+     <use xlink:href="#DINAlternate-Bold-75" transform="translate(425.740234 0)"/>
+     <use xlink:href="#DINAlternate-Bold-61" transform="translate(479.451172 0)"/>
+     <use xlink:href="#DINAlternate-Bold-6c" transform="translate(529.451172 0)"/>
+    </g>
+   </g>
+   <g id="text_2">
+    <!-- 55.3% -->
+    <g style="fill: #ffffff" transform="translate(87.117952 334.109879) scale(0.1 -0.1)">
+     <defs>
+      <path id="DINAlternate-Bold-35" d="M 319 2094 
+L 934 2094 
+Q 1050 2303 1197 2388 
+Q 1344 2469 1522 2469 
+Q 1722 2469 1856 2413 
+Q 1991 2344 2059 2228 
+Q 2188 1984 2181 1594 
+Q 2181 1434 2175 1266 
+Q 2163 1094 2106 947 
+Q 2053 800 1919 709 
+Q 1778 616 1544 616 
+Q 997 622 891 1147 
+L 238 1147 
+Q 331 519 722 238 
+Q 1106 -38 1569 -38 
+Q 1913 -31 2163 122 
+Q 2419 269 2553 447 
+Q 2706 628 2772 863 
+Q 2834 1100 2834 1544 
+Q 2834 1831 2816 2028 
+Q 2797 2222 2753 2356 
+Q 2669 2603 2478 2791 
+Q 2350 2931 2144 3028 
+Q 1925 3116 1663 3122 
+Q 1253 3122 934 2872 
+L 934 2872 
+L 934 3903 
+L 2747 3903 
+L 2747 4556 
+L 319 4556 
+L 319 2094 
+z
+" transform="scale(0.015625)"/>
+      <path id="DINAlternate-Bold-2e" d="M 441 0 
+L 1094 0 
+L 1094 653 
+L 441 653 
+L 441 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="DINAlternate-Bold-33" d="M 1125 2059 
+L 1400 2059 
+Q 1703 2059 1900 1875 
+Q 2100 1684 2106 1338 
+Q 2100 997 1900 813 
+Q 1703 616 1416 616 
+Q 1147 616 984 763 
+Q 825 903 738 1131 
+L 84 1131 
+Q 191 563 550 263 
+Q 909 -38 1375 -38 
+Q 1978 -31 2363 347 
+Q 2753 716 2759 1356 
+Q 2759 1644 2638 1906 
+Q 2509 2169 2222 2356 
+Q 2503 2547 2613 2791 
+Q 2706 3034 2706 3297 
+Q 2700 3816 2350 4197 
+Q 1984 4588 1363 4594 
+Q 872 4588 519 4244 
+Q 159 3897 109 3391 
+L 763 3391 
+Q 825 3672 1006 3806 
+Q 1178 3941 1388 3941 
+Q 1678 3934 1863 3756 
+Q 2047 3572 2053 3284 
+Q 2053 3000 1869 2822 
+Q 1684 2638 1350 2638 
+L 1125 2638 
+L 1125 2059 
+z
+" transform="scale(0.015625)"/>
+      <path id="DINAlternate-Bold-25" d="M 2156 984 
+Q 2156 1300 2394 1300 
+Q 2631 1300 2631 984 
+L 2631 641 
+Q 2631 325 2394 325 
+Q 2156 325 2156 641 
+L 2156 984 
+z
+M 1791 594 
+Q 1797 263 1984 116 
+Q 2156 -38 2394 -38 
+Q 2638 -38 2816 116 
+Q 2906 191 2950 313 
+Q 2994 428 2994 594 
+L 2994 1031 
+Q 2988 1363 2816 1516 
+Q 2638 1663 2394 1663 
+Q 2156 1663 1984 1516 
+Q 1797 1363 1791 1031 
+L 1791 594 
+z
+M 325 3525 
+Q 331 3194 519 3047 
+Q 691 2894 928 2894 
+Q 1172 2894 1350 3047 
+Q 1441 3122 1484 3244 
+Q 1528 3359 1528 3525 
+L 1528 3963 
+Q 1522 4294 1350 4447 
+Q 1172 4594 928 4594 
+Q 691 4594 519 4447 
+Q 331 4294 325 3963 
+L 325 3525 
+z
+M 691 3916 
+Q 691 4231 928 4231 
+Q 1166 4231 1166 3916 
+L 1166 3572 
+Q 1166 3256 928 3256 
+Q 691 3256 691 3572 
+L 691 3916 
+z
+M 372 0 
+L 794 0 
+L 2950 4556 
+L 2528 4556 
+L 372 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#DINAlternate-Bold-35"/>
+     <use xlink:href="#DINAlternate-Bold-35" transform="translate(47.998047 0)"/>
+     <use xlink:href="#DINAlternate-Bold-2e" transform="translate(95.996094 0)"/>
+     <use xlink:href="#DINAlternate-Bold-33" transform="translate(119.970703 0)"/>
+     <use xlink:href="#DINAlternate-Bold-25" transform="translate(167.96875 0)"/>
+    </g>
+   </g>
+   <g id="text_3">
+    <!-- Bisexual -->
+    <g style="fill: #262626" transform="translate(484.969185 450.442797) scale(0.1 -0.1)">
+     <defs>
+      <path id="DINAlternate-Bold-42" d="M 481 0 
+L 2400 0 
+Q 2938 0 3297 359 
+Q 3659 703 3666 1294 
+Q 3666 1650 3488 1953 
+Q 3297 2247 2925 2344 
+L 2925 2356 
+Q 3122 2450 3256 2566 
+Q 3391 2675 3463 2797 
+Q 3603 3053 3597 3334 
+Q 3597 3884 3256 4219 
+Q 2919 4550 2247 4556 
+L 481 4556 
+L 481 0 
+z
+M 2234 2022 
+Q 2619 2016 2797 1819 
+Q 2975 1619 2975 1338 
+Q 2975 1063 2797 863 
+Q 2619 659 2234 653 
+L 1172 653 
+L 1172 2022 
+L 2234 2022 
+z
+M 2169 3941 
+Q 2547 3934 2725 3756 
+Q 2906 3566 2906 3291 
+Q 2906 3016 2725 2834 
+Q 2547 2638 2169 2638 
+L 1172 2638 
+L 1172 3941 
+L 2169 3941 
+z
+" transform="scale(0.015625)"/>
+      <path id="DINAlternate-Bold-69" d="M 441 0 
+L 1094 0 
+L 1094 3244 
+L 441 3244 
+L 441 0 
+z
+M 441 3903 
+L 1094 3903 
+L 1094 4556 
+L 441 4556 
+L 441 3903 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#DINAlternate-Bold-42"/>
+     <use xlink:href="#DINAlternate-Bold-69" transform="translate(60.986328 0)"/>
+     <use xlink:href="#DINAlternate-Bold-73" transform="translate(84.960938 0)"/>
+     <use xlink:href="#DINAlternate-Bold-65" transform="translate(132.958984 0)"/>
+     <use xlink:href="#DINAlternate-Bold-78" transform="translate(182.958984 0)"/>
+     <use xlink:href="#DINAlternate-Bold-75" transform="translate(230.957031 0)"/>
+     <use xlink:href="#DINAlternate-Bold-61" transform="translate(284.667969 0)"/>
+     <use xlink:href="#DINAlternate-Bold-6c" transform="translate(334.667969 0)"/>
+    </g>
+   </g>
+   <g id="text_4">
+    <!-- 17.8% -->
+    <g style="fill: #ffffff" transform="translate(446.025509 427.940578) scale(0.1 -0.1)">
+     <defs>
+      <path id="DINAlternate-Bold-31" d="M 1241 3866 
+L 1241 0 
+L 1894 0 
+L 1894 4556 
+L 1241 4556 
+L 594 4084 
+L 594 3391 
+L 594 3391 
+L 1241 3866 
+L 1241 3866 
+z
+" transform="scale(0.015625)"/>
+      <path id="DINAlternate-Bold-37" d="M 325 3244 
+L 978 3244 
+L 978 3903 
+L 2188 3903 
+L 647 0 
+L 1375 0 
+L 2919 3903 
+L 2919 4556 
+L 325 4556 
+L 325 3244 
+z
+" transform="scale(0.015625)"/>
+      <path id="DINAlternate-Bold-38" d="M 884 3291 
+Q 891 3616 1088 3781 
+Q 1281 3941 1534 3941 
+Q 1797 3941 1991 3781 
+Q 2181 3616 2188 3291 
+Q 2181 2975 1991 2809 
+Q 1797 2638 1534 2638 
+Q 1281 2638 1088 2809 
+Q 891 2975 884 3291 
+L 884 3291 
+z
+M 147 1331 
+Q 153 716 563 347 
+Q 953 -31 1534 -38 
+Q 2119 -31 2522 347 
+Q 2919 716 2925 1331 
+Q 2919 1991 2388 2356 
+Q 2591 2534 2719 2766 
+Q 2841 2981 2841 3278 
+Q 2834 3847 2469 4219 
+Q 2106 4588 1534 4594 
+Q 972 4588 616 4219 
+Q 238 3847 231 3278 
+Q 231 2981 366 2766 
+Q 481 2534 684 2356 
+Q 153 1991 147 1331 
+L 147 1331 
+z
+M 800 1338 
+Q 806 1656 1025 1856 
+Q 1234 2053 1534 2059 
+Q 1844 2053 2053 1856 
+Q 2266 1656 2272 1338 
+Q 2266 1025 2053 825 
+Q 1844 616 1534 616 
+Q 1234 616 1025 825 
+Q 806 1025 800 1338 
+L 800 1338 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#DINAlternate-Bold-31"/>
+     <use xlink:href="#DINAlternate-Bold-37" transform="translate(47.998047 0)"/>
+     <use xlink:href="#DINAlternate-Bold-2e" transform="translate(95.996094 0)"/>
+     <use xlink:href="#DINAlternate-Bold-38" transform="translate(119.970703 0)"/>
+     <use xlink:href="#DINAlternate-Bold-25" transform="translate(167.96875 0)"/>
+    </g>
+   </g>
+   <g id="text_5">
+    <!-- SKIP -->
+    <g style="fill: #262626" transform="translate(535.159931 264.63752) scale(0.1 -0.1)">
+     <defs>
+      <path id="DINAlternate-Bold-53" d="M 538 1106 
+L 84 588 
+Q 813 -38 1825 -38 
+Q 3391 -19 3425 1288 
+Q 3425 1772 3122 2138 
+Q 2816 2509 2175 2597 
+Q 1850 2638 1663 2669 
+Q 1325 2731 1172 2894 
+Q 1019 3053 1019 3250 
+Q 1025 3578 1247 3744 
+Q 1459 3903 1778 3903 
+Q 2394 3891 2906 3553 
+L 2906 3553 
+L 3291 4122 
+Q 2663 4575 1813 4594 
+Q 1106 4588 722 4225 
+Q 325 3859 325 3263 
+Q 325 2766 641 2419 
+Q 947 2081 1534 1984 
+Q 1863 1938 2138 1900 
+Q 2738 1797 2731 1288 
+Q 2719 666 1831 653 
+Q 1081 659 538 1106 
+L 538 1106 
+z
+" transform="scale(0.015625)"/>
+      <path id="DINAlternate-Bold-4b" d="M 481 0 
+L 1172 0 
+L 1172 1388 
+L 1972 2228 
+L 1972 2228 
+L 3213 0 
+L 4031 0 
+L 2419 2759 
+L 3878 4556 
+L 3059 4556 
+L 1184 2209 
+L 1172 2209 
+L 1172 4556 
+L 481 4556 
+L 481 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="DINAlternate-Bold-49" d="M 481 0 
+L 1172 0 
+L 1172 4556 
+L 481 4556 
+L 481 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="DINAlternate-Bold-50" d="M 1172 3903 
+L 2169 3903 
+Q 2450 3909 2663 3775 
+Q 2803 3694 2881 3553 
+Q 2956 3397 2956 3169 
+Q 2956 2894 2772 2669 
+Q 2578 2438 2194 2431 
+L 1172 2431 
+L 1172 3903 
+z
+M 481 0 
+L 1172 0 
+L 1172 1778 
+L 2222 1778 
+Q 2925 1791 3291 2228 
+Q 3647 2644 3647 3150 
+Q 3647 3525 3506 3800 
+Q 3372 4084 3156 4238 
+Q 2900 4441 2650 4506 
+Q 2400 4556 2131 4556 
+L 481 4556 
+L 481 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#DINAlternate-Bold-53"/>
+     <use xlink:href="#DINAlternate-Bold-4b" transform="translate(57.373047 0)"/>
+     <use xlink:href="#DINAlternate-Bold-49" transform="translate(120.361328 0)"/>
+     <use xlink:href="#DINAlternate-Bold-50" transform="translate(146.142578 0)"/>
+    </g>
+   </g>
+   <g id="text_6">
+    <!-- 8.5% -->
+    <g style="fill: #ffffff" transform="translate(491.087644 270.006093) scale(0.1 -0.1)">
+     <use xlink:href="#DINAlternate-Bold-38"/>
+     <use xlink:href="#DINAlternate-Bold-2e" transform="translate(47.998047 0)"/>
+     <use xlink:href="#DINAlternate-Bold-35" transform="translate(71.972656 0)"/>
+     <use xlink:href="#DINAlternate-Bold-25" transform="translate(119.970703 0)"/>
+    </g>
+   </g>
+   <g id="text_7">
+    <!-- Gay -->
+    <g style="fill: #262626" transform="translate(498.676115 169.276689) scale(0.1 -0.1)">
+     <defs>
+      <path id="DINAlternate-Bold-47" d="M 1959 1856 
+L 2888 1856 
+L 2888 1619 
+Q 2881 1191 2619 928 
+Q 2356 653 1953 653 
+Q 1709 653 1534 756 
+Q 1356 844 1247 984 
+Q 1113 1131 1069 1369 
+Q 1019 1606 1019 2278 
+Q 1019 2950 1069 3194 
+Q 1113 3425 1247 3572 
+Q 1356 3713 1534 3806 
+Q 1709 3897 1953 3903 
+Q 2284 3897 2516 3713 
+Q 2738 3519 2822 3244 
+L 3553 3244 
+Q 3444 3816 3028 4203 
+Q 2613 4588 1953 4594 
+Q 1416 4588 1056 4338 
+Q 691 4091 525 3775 
+Q 422 3609 372 3341 
+Q 325 3072 325 2278 
+Q 325 1497 372 1222 
+Q 397 1075 434 978 
+Q 475 884 525 781 
+Q 691 466 1056 225 
+Q 1416 -25 1953 -38 
+Q 2650 -25 3109 434 
+Q 3566 897 3578 1581 
+L 3578 2509 
+L 1959 2509 
+L 1959 1856 
+z
+" transform="scale(0.015625)"/>
+      <path id="DINAlternate-Bold-79" d="M 1119 128 
+L 941 -416 
+Q 897 -556 788 -628 
+Q 678 -697 550 -697 
+L 359 -697 
+L 359 -1313 
+L 575 -1313 
+Q 878 -1313 1119 -1178 
+Q 1356 -1038 1491 -672 
+L 2888 3244 
+L 2194 3244 
+L 1428 972 
+L 1416 972 
+L 647 3244 
+L -44 3244 
+L 1119 128 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#DINAlternate-Bold-47"/>
+     <use xlink:href="#DINAlternate-Bold-61" transform="translate(60.986328 0)"/>
+     <use xlink:href="#DINAlternate-Bold-79" transform="translate(110.361328 0)"/>
+    </g>
+   </g>
+   <g id="text_8">
+    <!-- 5.2% -->
+    <g style="fill: #ffffff" transform="translate(460.0764 188.924152) scale(0.1 -0.1)">
+     <defs>
+      <path id="DINAlternate-Bold-32" d="M 206 0 
+L 2803 0 
+L 2803 653 
+L 1063 653 
+L 2528 2491 
+Q 2803 2841 2803 3291 
+Q 2797 3853 2425 4219 
+Q 2059 4588 1472 4594 
+Q 947 4588 588 4225 
+Q 231 3853 206 3284 
+L 856 3284 
+Q 891 3597 1075 3769 
+Q 1253 3941 1522 3941 
+Q 1825 3934 1991 3744 
+Q 2150 3553 2150 3297 
+Q 2150 3200 2125 3091 
+Q 2088 2975 1984 2841 
+L 206 616 
+L 206 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#DINAlternate-Bold-35"/>
+     <use xlink:href="#DINAlternate-Bold-2e" transform="translate(47.998047 0)"/>
+     <use xlink:href="#DINAlternate-Bold-32" transform="translate(71.972656 0)"/>
+     <use xlink:href="#DINAlternate-Bold-25" transform="translate(119.970703 0)"/>
+    </g>
+   </g>
+   <g id="text_9">
+    <!-- Prefer not to say -->
+    <g style="fill: #262626" transform="translate(450.908731 115.935497) scale(0.1 -0.1)">
+     <defs>
+      <path id="DINAlternate-Bold-66" d="M 525 0 
+L 1178 0 
+L 1178 2747 
+L 1831 2747 
+L 1831 3244 
+L 1178 3244 
+L 1178 3672 
+Q 1166 3950 1459 3941 
+L 1831 3941 
+L 1831 4556 
+L 1409 4556 
+Q 1031 4556 781 4353 
+Q 525 4134 525 3672 
+L 525 3244 
+L 197 3244 
+L 197 2747 
+L 525 2747 
+L 525 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="DINAlternate-Bold-20" transform="scale(0.015625)"/>
+      <path id="DINAlternate-Bold-6e" d="M 422 0 
+L 1075 0 
+L 1075 1931 
+Q 1075 2272 1259 2450 
+Q 1441 2631 1722 2631 
+Q 2003 2631 2181 2450 
+Q 2363 2272 2363 1931 
+L 2363 0 
+L 3016 0 
+L 3016 2156 
+Q 3000 2713 2669 3000 
+Q 2334 3284 1931 3284 
+Q 1409 3284 1088 2900 
+L 1075 2900 
+L 1075 3244 
+L 422 3244 
+L 422 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#DINAlternate-Bold-50"/>
+     <use xlink:href="#DINAlternate-Bold-72" transform="translate(59.277344 0)"/>
+     <use xlink:href="#DINAlternate-Bold-65" transform="translate(96.443359 0)"/>
+     <use xlink:href="#DINAlternate-Bold-66" transform="translate(146.443359 0)"/>
+     <use xlink:href="#DINAlternate-Bold-65" transform="translate(174.226562 0)"/>
+     <use xlink:href="#DINAlternate-Bold-72" transform="translate(224.226562 0)"/>
+     <use xlink:href="#DINAlternate-Bold-20" transform="translate(263.142578 0)"/>
+     <use xlink:href="#DINAlternate-Bold-6e" transform="translate(287.117188 0)"/>
+     <use xlink:href="#DINAlternate-Bold-6f" transform="translate(340.828125 0)"/>
+     <use xlink:href="#DINAlternate-Bold-74" transform="translate(390.828125 0)"/>
+     <use xlink:href="#DINAlternate-Bold-20" transform="translate(418.611328 0)"/>
+     <use xlink:href="#DINAlternate-Bold-74" transform="translate(442.585938 0)"/>
+     <use xlink:href="#DINAlternate-Bold-6f" transform="translate(470.369141 0)"/>
+     <use xlink:href="#DINAlternate-Bold-20" transform="translate(520.369141 0)"/>
+     <use xlink:href="#DINAlternate-Bold-73" transform="translate(544.34375 0)"/>
+     <use xlink:href="#DINAlternate-Bold-61" transform="translate(592.341797 0)"/>
+     <use xlink:href="#DINAlternate-Bold-79" transform="translate(641.716797 0)"/>
+    </g>
+   </g>
+   <g id="text_10">
+    <!-- 4.4% -->
+    <g style="fill: #ffffff" transform="translate(419.474124 143.609374) scale(0.1 -0.1)">
+     <defs>
+      <path id="DINAlternate-Bold-34" d="M 78 678 
+L 1978 678 
+L 1978 0 
+L 2631 0 
+L 2631 678 
+L 2994 678 
+L 2994 1294 
+L 2631 1294 
+L 2631 2603 
+L 1978 2603 
+L 1978 1294 
+L 788 1294 
+L 2328 4556 
+L 1600 4556 
+L 78 1294 
+L 78 678 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#DINAlternate-Bold-34"/>
+     <use xlink:href="#DINAlternate-Bold-2e" transform="translate(47.998047 0)"/>
+     <use xlink:href="#DINAlternate-Bold-34" transform="translate(71.972656 0)"/>
+     <use xlink:href="#DINAlternate-Bold-25" transform="translate(119.970703 0)"/>
+    </g>
+   </g>
+   <g id="text_11">
+    <!-- Queer -->
+    <g style="fill: #262626" transform="translate(405.41733 86.366832) scale(0.1 -0.1)">
+     <defs>
+      <path id="DINAlternate-Bold-51" d="M 2463 813 
+Q 2272 653 1953 653 
+Q 1709 653 1534 756 
+Q 1356 844 1247 984 
+Q 1113 1131 1069 1369 
+Q 1019 1606 1019 2278 
+Q 1019 2950 1069 3194 
+Q 1113 3425 1247 3572 
+Q 1356 3713 1534 3806 
+Q 1709 3897 1953 3903 
+Q 2200 3897 2381 3806 
+Q 2553 3713 2656 3572 
+Q 2791 3425 2841 3194 
+Q 2888 2950 2888 2278 
+Q 2888 1556 2822 1325 
+L 2822 1325 
+L 2291 1747 
+L 2291 1747 
+L 1881 1275 
+L 2463 813 
+z
+M 3028 359 
+L 3603 -103 
+L 3603 -103 
+L 4013 372 
+L 3413 850 
+Q 3506 1006 3547 1288 
+Q 3578 1569 3578 2278 
+Q 3578 3072 3538 3341 
+Q 3494 3609 3378 3775 
+Q 3219 4091 2859 4338 
+Q 2497 4588 1953 4594 
+Q 1416 4588 1056 4338 
+Q 691 4091 525 3775 
+Q 422 3609 372 3341 
+Q 325 3072 325 2278 
+Q 325 1497 372 1222 
+Q 397 1075 434 978 
+Q 475 884 525 781 
+Q 691 466 1056 225 
+Q 1416 -25 1953 -38 
+Q 2625 -25 3028 359 
+L 3028 359 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#DINAlternate-Bold-51"/>
+     <use xlink:href="#DINAlternate-Bold-75" transform="translate(60.986328 0)"/>
+     <use xlink:href="#DINAlternate-Bold-65" transform="translate(114.697266 0)"/>
+     <use xlink:href="#DINAlternate-Bold-65" transform="translate(164.697266 0)"/>
+     <use xlink:href="#DINAlternate-Bold-72" transform="translate(214.697266 0)"/>
+    </g>
+   </g>
+   <g id="text_12">
+    <!-- 2.8% -->
+    <g style="fill: #ffffff" transform="translate(380.806433 118.476008) scale(0.1 -0.1)">
+     <use xlink:href="#DINAlternate-Bold-32"/>
+     <use xlink:href="#DINAlternate-Bold-2e" transform="translate(47.998047 0)"/>
+     <use xlink:href="#DINAlternate-Bold-38" transform="translate(71.972656 0)"/>
+     <use xlink:href="#DINAlternate-Bold-25" transform="translate(119.970703 0)"/>
+    </g>
+   </g>
+   <g id="text_13">
+    <!-- Lesbian -->
+    <g style="fill: #262626" transform="translate(367.5541 71.35442) scale(0.1 -0.1)">
+     <defs>
+      <path id="DINAlternate-Bold-4c" d="M 481 0 
+L 3391 0 
+L 3391 653 
+L 1172 653 
+L 1172 4556 
+L 481 4556 
+L 481 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="DINAlternate-Bold-62" d="M 422 0 
+L 1075 0 
+L 1075 341 
+L 1075 341 
+Q 1400 -25 1913 -38 
+Q 2216 -31 2431 84 
+Q 2650 197 2784 384 
+Q 2919 538 2969 800 
+Q 3016 1050 3016 1625 
+Q 3016 2209 2969 2456 
+Q 2919 2706 2784 2859 
+Q 2509 3269 1913 3284 
+Q 1663 3284 1466 3181 
+Q 1253 3072 1075 2900 
+L 1075 2900 
+L 1075 4556 
+L 422 4556 
+L 422 0 
+z
+M 1716 2631 
+Q 1947 2631 2081 2553 
+Q 2216 2469 2272 2322 
+Q 2334 2175 2356 2003 
+Q 2363 1819 2363 1625 
+Q 2363 1441 2356 1266 
+Q 2334 1081 2272 934 
+Q 2216 794 2081 703 
+Q 1947 616 1716 616 
+Q 1497 616 1369 709 
+Q 1234 800 1172 947 
+Q 1113 1094 1094 1275 
+Q 1075 1453 1075 1625 
+Q 1075 1813 1094 1984 
+Q 1113 2156 1172 2303 
+Q 1234 2450 1369 2541 
+Q 1497 2631 1716 2631 
+L 1716 2631 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#DINAlternate-Bold-4c"/>
+     <use xlink:href="#DINAlternate-Bold-65" transform="translate(55.615234 0)"/>
+     <use xlink:href="#DINAlternate-Bold-73" transform="translate(105.615234 0)"/>
+     <use xlink:href="#DINAlternate-Bold-62" transform="translate(153.613281 0)"/>
+     <use xlink:href="#DINAlternate-Bold-69" transform="translate(205.517578 0)"/>
+     <use xlink:href="#DINAlternate-Bold-61" transform="translate(229.492188 0)"/>
+     <use xlink:href="#DINAlternate-Bold-6e" transform="translate(279.492188 0)"/>
+    </g>
+   </g>
+   <g id="text_14">
+    <!-- 2.6% -->
+    <g style="fill: #ffffff" transform="translate(348.622687 105.715458) scale(0.1 -0.1)">
+     <defs>
+      <path id="DINAlternate-Bold-36" d="M 2375 4603 
+Q 2378 4603 2345 4536 
+Q 2313 4469 2256 4353 
+Q 2200 4238 2125 4088 
+Q 2050 3938 1967 3772 
+Q 1884 3606 1798 3437 
+Q 1713 3269 1633 3116 
+Q 1553 2963 1487 2838 
+Q 1422 2713 1378 2638 
+Q 1469 2691 1583 2702 
+Q 1697 2713 1847 2706 
+Q 2063 2700 2223 2631 
+Q 2384 2563 2500 2459 
+Q 2616 2356 2692 2229 
+Q 2769 2103 2812 1983 
+Q 2856 1863 2873 1758 
+Q 2891 1653 2891 1594 
+Q 2891 1575 2891 1525 
+Q 2891 1475 2891 1414 
+Q 2891 1353 2889 1290 
+Q 2888 1228 2884 1184 
+Q 2881 1163 2864 1070 
+Q 2847 978 2801 851 
+Q 2756 725 2672 579 
+Q 2588 434 2450 304 
+Q 2313 175 2116 81 
+Q 1919 -13 1647 -34 
+Q 1363 -59 1144 3 
+Q 925 66 765 181 
+Q 606 297 500 448 
+Q 394 600 333 759 
+Q 272 919 251 1066 
+Q 231 1213 244 1316 
+Q 263 1469 284 1589 
+Q 306 1709 336 1818 
+Q 366 1928 403 2034 
+Q 441 2141 491 2266 
+Q 503 2297 559 2414 
+Q 616 2531 698 2703 
+Q 781 2875 884 3081 
+Q 988 3288 1091 3500 
+Q 1334 3994 1638 4603 
+L 2375 4603 
+z
+M 2244 1269 
+Q 2244 1388 2234 1531 
+Q 2225 1675 2164 1804 
+Q 2103 1934 1965 2028 
+Q 1828 2122 1575 2141 
+Q 1456 2150 1359 2115 
+Q 1263 2081 1188 2022 
+Q 1113 1963 1058 1886 
+Q 1003 1809 967 1734 
+Q 931 1659 915 1595 
+Q 900 1531 900 1497 
+Q 900 1419 903 1323 
+Q 906 1228 923 1133 
+Q 941 1038 981 948 
+Q 1022 859 1097 790 
+Q 1172 722 1289 678 
+Q 1406 634 1581 634 
+Q 1722 631 1826 670 
+Q 1931 709 2004 770 
+Q 2078 831 2125 906 
+Q 2172 981 2198 1053 
+Q 2225 1125 2234 1183 
+Q 2244 1241 2244 1269 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#DINAlternate-Bold-32"/>
+     <use xlink:href="#DINAlternate-Bold-2e" transform="translate(47.998047 0)"/>
+     <use xlink:href="#DINAlternate-Bold-36" transform="translate(71.972656 0)"/>
+     <use xlink:href="#DINAlternate-Bold-25" transform="translate(119.970703 0)"/>
+    </g>
+   </g>
+   <g id="text_15">
+    <!-- Asexual -->
+    <g style="fill: #262626" transform="translate(335.386314 64.051602) scale(0.1 -0.1)">
+     <defs>
+      <path id="DINAlternate-Bold-41" d="M 1288 1631 
+L 1947 3622 
+L 1959 3622 
+L 2619 1631 
+L 1288 1631 
+z
+M 3169 0 
+L 3897 0 
+L 2241 4556 
+L 1663 4556 
+L 6 0 
+L 738 0 
+L 1088 1019 
+L 2816 1019 
+L 3169 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#DINAlternate-Bold-41"/>
+     <use xlink:href="#DINAlternate-Bold-73" transform="translate(60.986328 0)"/>
+     <use xlink:href="#DINAlternate-Bold-65" transform="translate(108.984375 0)"/>
+     <use xlink:href="#DINAlternate-Bold-78" transform="translate(158.984375 0)"/>
+     <use xlink:href="#DINAlternate-Bold-75" transform="translate(206.982422 0)"/>
+     <use xlink:href="#DINAlternate-Bold-61" transform="translate(260.693359 0)"/>
+     <use xlink:href="#DINAlternate-Bold-6c" transform="translate(310.693359 0)"/>
+    </g>
+   </g>
+   <g id="text_16">
+    <!-- 1.8% -->
+    <g style="fill: #ffffff" transform="translate(321.280069 99.508063) scale(0.1 -0.1)">
+     <use xlink:href="#DINAlternate-Bold-31"/>
+     <use xlink:href="#DINAlternate-Bold-2e" transform="translate(47.998047 0)"/>
+     <use xlink:href="#DINAlternate-Bold-38" transform="translate(71.972656 0)"/>
+     <use xlink:href="#DINAlternate-Bold-25" transform="translate(119.970703 0)"/>
+    </g>
+   </g>
+   <g id="text_17">
+    <!-- Pansexual -->
+    <g style="fill: #262626" transform="translate(310.282937 61.495545) scale(0.1 -0.1)">
+     <use xlink:href="#DINAlternate-Bold-50"/>
+     <use xlink:href="#DINAlternate-Bold-61" transform="translate(56.777344 0)"/>
+     <use xlink:href="#DINAlternate-Bold-6e" transform="translate(106.777344 0)"/>
+     <use xlink:href="#DINAlternate-Bold-73" transform="translate(160.488281 0)"/>
+     <use xlink:href="#DINAlternate-Bold-65" transform="translate(208.486328 0)"/>
+     <use xlink:href="#DINAlternate-Bold-78" transform="translate(258.486328 0)"/>
+     <use xlink:href="#DINAlternate-Bold-75" transform="translate(306.484375 0)"/>
+     <use xlink:href="#DINAlternate-Bold-61" transform="translate(360.195312 0)"/>
+     <use xlink:href="#DINAlternate-Bold-6c" transform="translate(410.195312 0)"/>
+    </g>
+   </g>
+   <g id="text_18">
+    <!-- 1.6% -->
+    <g style="fill: #ffffff" transform="translate(299.942199 97.335414) scale(0.1 -0.1)">
+     <use xlink:href="#DINAlternate-Bold-31"/>
+     <use xlink:href="#DINAlternate-Bold-2e" transform="translate(47.998047 0)"/>
+     <use xlink:href="#DINAlternate-Bold-36" transform="translate(71.972656 0)"/>
+     <use xlink:href="#DINAlternate-Bold-25" transform="translate(119.970703 0)"/>
+    </g>
+   </g>
+   <g id="text_19">
+    <g id="patch_11">
+     <path d="M 481.384725 551.576775 
+L 548.077538 551.576775 
+Q 550.777538 551.576775 550.777538 548.876775 
+L 550.777538 540.623494 
+Q 550.777538 537.923494 548.077538 537.923494 
+L 481.384725 537.923494 
+Q 478.684725 537.923494 478.684725 540.623494 
+L 478.684725 548.876775 
+Q 478.684725 551.576775 481.384725 551.576775 
+z
+" style="fill: #d3d3d3; opacity: 0.8; stroke: #808080; stroke-linejoin: miter"/>
+    </g>
+    <!-- Non-null: 387/388 -->
+    <g style="fill: #808080" transform="translate(481.384725 547.030369) scale(0.09 -0.09)">
+     <defs>
+      <path id="DINAlternate-Bold-4e" d="M 481 0 
+L 1172 0 
+L 1172 3238 
+L 1184 3238 
+L 3244 0 
+L 3897 0 
+L 3897 4556 
+L 3206 4556 
+L 3206 1319 
+L 3194 1319 
+L 1131 4556 
+L 481 4556 
+L 481 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="DINAlternate-Bold-2d" d="M 341 1447 
+L 2266 1447 
+L 2266 2100 
+L 341 2100 
+L 341 1447 
+z
+" transform="scale(0.015625)"/>
+      <path id="DINAlternate-Bold-3a" d="M 441 1453 
+L 1094 1453 
+L 1094 2106 
+L 441 2106 
+L 441 1453 
+z
+M 441 0 
+L 1094 0 
+L 1094 653 
+L 441 653 
+L 441 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="DINAlternate-Bold-2f" d="M 50 -38 
+L 550 -38 
+L 2081 4594 
+L 1581 4594 
+L 50 -38 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#DINAlternate-Bold-4e"/>
+     <use xlink:href="#DINAlternate-Bold-6f" transform="translate(68.408203 0)"/>
+     <use xlink:href="#DINAlternate-Bold-6e" transform="translate(118.408203 0)"/>
+     <use xlink:href="#DINAlternate-Bold-2d" transform="translate(172.119141 0)"/>
+     <use xlink:href="#DINAlternate-Bold-6e" transform="translate(212.792969 0)"/>
+     <use xlink:href="#DINAlternate-Bold-75" transform="translate(266.503906 0)"/>
+     <use xlink:href="#DINAlternate-Bold-6c" transform="translate(320.214844 0)"/>
+     <use xlink:href="#DINAlternate-Bold-6c" transform="translate(345.996094 0)"/>
+     <use xlink:href="#DINAlternate-Bold-3a" transform="translate(371.777344 0)"/>
+     <use xlink:href="#DINAlternate-Bold-20" transform="translate(395.751953 0)"/>
+     <use xlink:href="#DINAlternate-Bold-33" transform="translate(419.726562 0)"/>
+     <use xlink:href="#DINAlternate-Bold-38" transform="translate(467.724609 0)"/>
+     <use xlink:href="#DINAlternate-Bold-37" transform="translate(515.722656 0)"/>
+     <use xlink:href="#DINAlternate-Bold-2f" transform="translate(563.720703 0)"/>
+     <use xlink:href="#DINAlternate-Bold-33" transform="translate(597.021484 0)"/>
+     <use xlink:href="#DINAlternate-Bold-38" transform="translate(645.019531 0)"/>
+     <use xlink:href="#DINAlternate-Bold-38" transform="translate(693.017578 0)"/>
+    </g>
+   </g>
+   <g id="text_20">
+    <!-- What is your sexual orientation -->
+    <g style="fill: #262626" transform="translate(214.619866 16.454375) scale(0.13 -0.13)">
+     <defs>
+      <path id="DINAlternate-Bold-57" d="M 1209 0 
+L 1784 0 
+L 2656 3284 
+L 2669 3284 
+L 3538 0 
+L 4116 0 
+L 5253 4556 
+L 4525 4556 
+L 3806 1319 
+L 3794 1319 
+L 2913 4556 
+L 2413 4556 
+L 1528 1319 
+L 1516 1319 
+L 800 4556 
+L 72 4556 
+L 1209 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="DINAlternate-Bold-68" d="M 422 0 
+L 1075 0 
+L 1075 1931 
+Q 1075 2272 1259 2450 
+Q 1441 2631 1722 2631 
+Q 2003 2631 2181 2450 
+Q 2363 2272 2363 1931 
+L 2363 0 
+L 3016 0 
+L 3016 2156 
+Q 3000 2713 2669 3000 
+Q 2334 3284 1931 3284 
+Q 1409 3284 1088 2900 
+L 1075 2900 
+L 1075 4556 
+L 422 4556 
+L 422 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#DINAlternate-Bold-57"/>
+     <use xlink:href="#DINAlternate-Bold-68" transform="translate(81.453125 0)"/>
+     <use xlink:href="#DINAlternate-Bold-61" transform="translate(135.164062 0)"/>
+     <use xlink:href="#DINAlternate-Bold-74" transform="translate(185.164062 0)"/>
+     <use xlink:href="#DINAlternate-Bold-20" transform="translate(212.947266 0)"/>
+     <use xlink:href="#DINAlternate-Bold-69" transform="translate(236.921875 0)"/>
+     <use xlink:href="#DINAlternate-Bold-73" transform="translate(260.896484 0)"/>
+     <use xlink:href="#DINAlternate-Bold-20" transform="translate(308.894531 0)"/>
+     <use xlink:href="#DINAlternate-Bold-79" transform="translate(332.869141 0)"/>
+     <use xlink:href="#DINAlternate-Bold-6f" transform="translate(376.628906 0)"/>
+     <use xlink:href="#DINAlternate-Bold-75" transform="translate(426.628906 0)"/>
+     <use xlink:href="#DINAlternate-Bold-72" transform="translate(480.339844 0)"/>
+     <use xlink:href="#DINAlternate-Bold-20" transform="translate(519.255859 0)"/>
+     <use xlink:href="#DINAlternate-Bold-73" transform="translate(543.230469 0)"/>
+     <use xlink:href="#DINAlternate-Bold-65" transform="translate(591.228516 0)"/>
+     <use xlink:href="#DINAlternate-Bold-78" transform="translate(641.228516 0)"/>
+     <use xlink:href="#DINAlternate-Bold-75" transform="translate(689.226562 0)"/>
+     <use xlink:href="#DINAlternate-Bold-61" transform="translate(742.9375 0)"/>
+     <use xlink:href="#DINAlternate-Bold-6c" transform="translate(792.9375 0)"/>
+     <use xlink:href="#DINAlternate-Bold-20" transform="translate(818.71875 0)"/>
+     <use xlink:href="#DINAlternate-Bold-6f" transform="translate(842.693359 0)"/>
+     <use xlink:href="#DINAlternate-Bold-72" transform="translate(892.693359 0)"/>
+     <use xlink:href="#DINAlternate-Bold-69" transform="translate(931.609375 0)"/>
+     <use xlink:href="#DINAlternate-Bold-65" transform="translate(955.583984 0)"/>
+     <use xlink:href="#DINAlternate-Bold-6e" transform="translate(1005.583984 0)"/>
+     <use xlink:href="#DINAlternate-Bold-74" transform="translate(1059.294922 0)"/>
+     <use xlink:href="#DINAlternate-Bold-61" transform="translate(1087.078125 0)"/>
+     <use xlink:href="#DINAlternate-Bold-74" transform="translate(1137.078125 0)"/>
+     <use xlink:href="#DINAlternate-Bold-69" transform="translate(1164.861328 0)"/>
+     <use xlink:href="#DINAlternate-Bold-6f" transform="translate(1188.835938 0)"/>
+     <use xlink:href="#DINAlternate-Bold-6e" transform="translate(1238.835938 0)"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
