@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-from preprocessing.data_loader import DataLoader
+from data_loader import DataLoader
 import json
 
 class NumpyEncoder(json.JSONEncoder):
@@ -52,7 +52,7 @@ class Overview:
         for column in self.data.columns:
             main_dict[column] = self.combine_values(column)
 
-        with open('data/overview.json', 'w') as f:
+        with open('preprocessing/overview.json', 'w') as f:
             json.dump(main_dict, f, cls=NumpyEncoder, indent=2)
         
 if __name__ == "__main__":
