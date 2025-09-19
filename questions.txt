@@ -55,6 +55,7 @@ Q43                 : Tell us about your worst trip/ time getting high.
 Q44                 : Sex on drugs
 Q45_1               : How old were you when you first got drunk? - 1
 Q46_1               : How old were you when you first took drugs? - 1
+------------------------------------------------------------------------------
 Q47                 : Which substances have you taken on campus?
 Q48                 : Which drugs have you taken on campus? - Selected Choice
 Q48_16_TEXT         : Which drugs have you taken on campus? - OTHER - Text
@@ -79,6 +80,7 @@ Q49_9_y             : Where have you taken substances on campus? - 9 - Y
 Q49_10_x            : Where have you taken substances on campus? - 10 - X
 Q49_10_y            : Where have you taken substances on campus? - 10 - Y
 Q49                 : Where have you taken substances on campus? - Regions
+------------------------------------------------------------------------------
 Q50                 : How do you smoke your weed?
 Q51                 : Have you ever greened out?
 Q52                 : Have you ever tried edibles?

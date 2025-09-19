@@ -236,57 +236,57 @@ class EDAVisualiser:
         plt.close()
 
     def horizontal_bar_chart(self, column, ylabel, title, figsize=(10, 6), parse_comma_separated=False):
-        """Create horizontal bar chart with most frequent answer at the top using seaborn.
+        """Create Horizontal Bar Chart With Most Frequent Answer At The Top Using Seaborn.
 
         Parameters:
         -----------
         parse_comma_separated : bool, optional
-            If True, parse each value by comma and count individual values
-            (e.g., "Beer, Wine" counts as two separate values)
+            If True, Parse Each Value By Comma And Count Individual Values
+            (e.g., "Beer, Wine" Counts As Two Separate Values)
         """
         _, ax = plt.subplots(figsize=figsize)
 
-        # Filter out None/NaN values
+        # Filter Out None/NaN Values
         data_clean = self.data[column].dropna()
         total_count = len(self.data[column])
 
         if parse_comma_separated:
-            # Parse comma-separated values and count individually
+            # Parse Comma-Separated Values And Count Individually
             all_values = []
             for value in data_clean:
-                # Split by comma and strip whitespace
+                # Split By Comma And Strip Whitespace
                 individual_values = [v.strip() for v in str(value).split(',')]
                 all_values.extend(individual_values)
-            # Create a Series from the expanded values
+            # Create A Series From The Expanded Values
             expanded_series = pd.Series(all_values)
             value_counts = expanded_series.value_counts()
-            non_null_count = len(all_values)  # Count of individual parsed values
+            non_null_count = len(all_values)  # Count Of Individual Parsed Values
         else:
-            # Standard value counts
+            # Standard Value Counts
             value_counts = data_clean.value_counts()
             non_null_count = len(data_clean)
 
         if len(value_counts) == 0:
-            ax.text(0.5, 0.5, f'No data available for {column}',
+            ax.text(0.5, 0.5, f'No Data Available For {column}'.title(),
                    horizontalalignment='center', verticalalignment='center',
                    transform=ax.transAxes, fontsize=self.font_size)
         else:
-            # Use seaborn horizontal barplot with proper color handling
+            # Use Seaborn Horizontal Barplot With Proper Color Handling
             colors_extended = (self.colors * (len(value_counts) // len(self.colors) + 1))[:len(value_counts)]
             sns.barplot(y=value_counts.index, x=value_counts.values, hue=value_counts.index,
                        palette=colors_extended, alpha=0.8, edgecolor='white', linewidth=1.5,
                        ax=ax, orient='h', legend=False)
 
-            # Add value labels on bars
+            # Add Value Labels On Bars
             for i, count in enumerate(value_counts.values):
                 ax.text(count + max(value_counts.values) * 0.01, i, str(count),
                        ha='left', va='center')
 
         ax.set_title(title, pad=20, fontweight='bold')
         ax.set_ylabel(ylabel)
-        ax.set_xlabel('Frequency')
+        ax.set_xlabel('Frequency'.title())
 
-        # Add info box with non-null count
+        # Add Info Box With Non-Null Count
         self._add_info_box(ax, non_null_count, total_count)
 
         sns.despine()

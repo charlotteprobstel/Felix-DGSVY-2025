@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2025-09-18T22:41:01.095995</dc:date>
+    <dc:date>2025-09-19T17:09:20.422247</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -40,8 +40,8 @@ z
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
      <g id="text_1">
-      <!-- A day -->
-      <g style="fill: #262626" transform="translate(98.07804 327.009056) rotate(-45) scale(0.1 -0.1)">
+      <!-- A few hours -->
+      <g style="fill: #262626" transform="translate(88.438186 346.288765) rotate(-45) scale(0.1 -0.1)">
        <defs>
         <path id="DINAlternate-Bold-41" d="M 1288 1631 
 L 1947 3622 
@@ -61,6 +61,220 @@ L 3169 0
 z
 " transform="scale(0.015625)"/>
         <path id="DINAlternate-Bold-20" transform="scale(0.015625)"/>
+        <path id="DINAlternate-Bold-66" d="M 525 0 
+L 1178 0 
+L 1178 2747 
+L 1831 2747 
+L 1831 3244 
+L 1178 3244 
+L 1178 3672 
+Q 1166 3950 1459 3941 
+L 1831 3941 
+L 1831 4556 
+L 1409 4556 
+Q 1031 4556 781 4353 
+Q 525 4134 525 3672 
+L 525 3244 
+L 197 3244 
+L 197 2747 
+L 525 2747 
+L 525 0 
+z
+" transform="scale(0.015625)"/>
+        <path id="DINAlternate-Bold-65" d="M 2938 1375 
+L 2938 1913 
+Q 2931 2553 2541 2919 
+Q 2156 3278 1600 3284 
+Q 1369 3284 1131 3200 
+Q 891 3116 697 2925 
+Q 506 2738 384 2413 
+Q 263 2094 263 1613 
+Q 263 1113 403 800 
+Q 531 475 738 294 
+Q 844 206 966 147 
+Q 1081 78 1203 38 
+Q 1447 -38 1703 -38 
+Q 2375 -44 2872 488 
+L 2400 891 
+L 2400 891 
+Q 2088 575 1691 575 
+Q 1350 575 1141 781 
+Q 916 984 916 1375 
+L 2938 1375 
+z
+M 916 1913 
+Q 934 2291 1119 2484 
+Q 1306 2669 1600 2669 
+Q 1894 2669 2081 2484 
+Q 2272 2291 2284 1913 
+L 916 1913 
+z
+" transform="scale(0.015625)"/>
+        <path id="DINAlternate-Bold-77" d="M 2994 0 
+L 3572 0 
+L 4606 3244 
+L 3916 3244 
+L 3297 972 
+L 3284 972 
+L 2547 3244 
+L 2075 3244 
+L 1338 972 
+L 1325 972 
+L 703 3244 
+L 13 3244 
+L 1050 0 
+L 1625 0 
+L 2303 2272 
+L 2316 2272 
+L 2994 0 
+z
+" transform="scale(0.015625)"/>
+        <path id="DINAlternate-Bold-68" d="M 422 0 
+L 1075 0 
+L 1075 1931 
+Q 1075 2272 1259 2450 
+Q 1441 2631 1722 2631 
+Q 2003 2631 2181 2450 
+Q 2363 2272 2363 1931 
+L 2363 0 
+L 3016 0 
+L 3016 2156 
+Q 3000 2713 2669 3000 
+Q 2334 3284 1931 3284 
+Q 1409 3284 1088 2900 
+L 1075 2900 
+L 1075 4556 
+L 422 4556 
+L 422 0 
+z
+" transform="scale(0.015625)"/>
+        <path id="DINAlternate-Bold-6f" d="M 263 1625 
+Q 263 1113 347 844 
+Q 434 575 616 378 
+Q 750 225 991 103 
+Q 1228 -31 1600 -38 
+Q 1984 -31 2222 103 
+Q 2350 159 2431 238 
+Q 2522 306 2584 378 
+Q 2778 575 2859 844 
+Q 2938 1113 2938 1625 
+Q 2938 2138 2859 2413 
+Q 2778 2681 2584 2866 
+Q 2456 3028 2222 3156 
+Q 1984 3278 1600 3284 
+Q 1228 3278 991 3156 
+Q 750 3028 616 2866 
+Q 434 2681 347 2413 
+Q 263 2138 263 1625 
+L 263 1625 
+z
+M 2284 1619 
+Q 2284 1288 2253 1131 
+Q 2222 972 2125 850 
+Q 2053 756 1913 684 
+Q 1778 616 1600 616 
+Q 1434 616 1294 684 
+Q 1159 756 1075 850 
+Q 991 972 953 1131 
+Q 916 1288 916 1625 
+Q 916 1966 953 2125 
+Q 991 2278 1075 2394 
+Q 1159 2503 1294 2566 
+Q 1434 2631 1600 2631 
+Q 1778 2631 1913 2566 
+Q 2053 2503 2125 2394 
+Q 2222 2278 2253 2125 
+Q 2284 1966 2284 1619 
+L 2284 1619 
+z
+" transform="scale(0.015625)"/>
+        <path id="DINAlternate-Bold-75" d="M 422 1088 
+Q 428 538 781 256 
+Q 1106 -31 1509 -38 
+Q 2028 -38 2350 347 
+L 2363 347 
+L 2363 0 
+L 3016 0 
+L 3016 3244 
+L 2363 3244 
+L 2363 1313 
+Q 2363 984 2181 800 
+Q 2003 616 1722 616 
+Q 1441 616 1259 800 
+Q 1075 984 1075 1313 
+L 1075 3244 
+L 422 3244 
+L 422 1088 
+z
+" transform="scale(0.015625)"/>
+        <path id="DINAlternate-Bold-72" d="M 422 0 
+L 1075 0 
+L 1075 1953 
+Q 1081 2309 1281 2469 
+Q 1459 2631 1709 2631 
+Q 1931 2631 2138 2469 
+L 2138 2469 
+L 2613 3034 
+Q 2322 3278 1931 3284 
+Q 1409 3284 1088 2900 
+L 1075 2900 
+L 1075 3244 
+L 422 3244 
+L 422 0 
+z
+" transform="scale(0.015625)"/>
+        <path id="DINAlternate-Bold-73" d="M 519 991 
+L 63 544 
+Q 697 -38 1491 -38 
+Q 2075 -31 2450 231 
+Q 2828 488 2834 959 
+Q 2834 1363 2625 1625 
+Q 2400 1894 1894 1931 
+L 1356 1972 
+Q 1119 1997 1025 2088 
+Q 922 2169 928 2278 
+Q 928 2450 1056 2559 
+Q 1178 2669 1484 2669 
+Q 1753 2669 1959 2591 
+Q 2169 2503 2356 2369 
+L 2356 2369 
+L 2759 2841 
+Q 2522 3047 2222 3169 
+Q 2066 3225 1888 3256 
+Q 1709 3284 1484 3284 
+Q 966 3284 628 3034 
+Q 281 2784 275 2284 
+Q 281 1869 544 1638 
+Q 800 1400 1209 1363 
+L 1784 1313 
+Q 1966 1306 2075 1234 
+Q 2181 1166 2181 991 
+Q 2181 794 2003 684 
+Q 1825 575 1544 575 
+Q 916 575 519 991 
+L 519 991 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#DINAlternate-Bold-41"/>
+       <use xlink:href="#DINAlternate-Bold-20" transform="translate(60.986328 0)"/>
+       <use xlink:href="#DINAlternate-Bold-66" transform="translate(84.960938 0)"/>
+       <use xlink:href="#DINAlternate-Bold-65" transform="translate(112.744141 0)"/>
+       <use xlink:href="#DINAlternate-Bold-77" transform="translate(162.744141 0)"/>
+       <use xlink:href="#DINAlternate-Bold-20" transform="translate(234.960938 0)"/>
+       <use xlink:href="#DINAlternate-Bold-68" transform="translate(258.935547 0)"/>
+       <use xlink:href="#DINAlternate-Bold-6f" transform="translate(312.646484 0)"/>
+       <use xlink:href="#DINAlternate-Bold-75" transform="translate(362.646484 0)"/>
+       <use xlink:href="#DINAlternate-Bold-72" transform="translate(416.357422 0)"/>
+       <use xlink:href="#DINAlternate-Bold-73" transform="translate(455.273438 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="text_2">
+      <!-- A day -->
+      <g style="fill: #262626" transform="translate(231.18404 327.009056) rotate(-45) scale(0.1 -0.1)">
+       <defs>
         <path id="DINAlternate-Bold-64" d="M 2363 341 
 L 2363 0 
 L 3016 0 
@@ -159,112 +373,10 @@ z
       </g>
      </g>
     </g>
-    <g id="xtick_2">
-     <g id="text_2">
+    <g id="xtick_3">
+     <g id="text_3">
       <!-- A few days -->
-      <g style="fill: #262626" transform="translate(223.33626 342.704617) rotate(-45) scale(0.1 -0.1)">
-       <defs>
-        <path id="DINAlternate-Bold-66" d="M 525 0 
-L 1178 0 
-L 1178 2747 
-L 1831 2747 
-L 1831 3244 
-L 1178 3244 
-L 1178 3672 
-Q 1166 3950 1459 3941 
-L 1831 3941 
-L 1831 4556 
-L 1409 4556 
-Q 1031 4556 781 4353 
-Q 525 4134 525 3672 
-L 525 3244 
-L 197 3244 
-L 197 2747 
-L 525 2747 
-L 525 0 
-z
-" transform="scale(0.015625)"/>
-        <path id="DINAlternate-Bold-65" d="M 2938 1375 
-L 2938 1913 
-Q 2931 2553 2541 2919 
-Q 2156 3278 1600 3284 
-Q 1369 3284 1131 3200 
-Q 891 3116 697 2925 
-Q 506 2738 384 2413 
-Q 263 2094 263 1613 
-Q 263 1113 403 800 
-Q 531 475 738 294 
-Q 844 206 966 147 
-Q 1081 78 1203 38 
-Q 1447 -38 1703 -38 
-Q 2375 -44 2872 488 
-L 2400 891 
-L 2400 891 
-Q 2088 575 1691 575 
-Q 1350 575 1141 781 
-Q 916 984 916 1375 
-L 2938 1375 
-z
-M 916 1913 
-Q 934 2291 1119 2484 
-Q 1306 2669 1600 2669 
-Q 1894 2669 2081 2484 
-Q 2272 2291 2284 1913 
-L 916 1913 
-z
-" transform="scale(0.015625)"/>
-        <path id="DINAlternate-Bold-77" d="M 2994 0 
-L 3572 0 
-L 4606 3244 
-L 3916 3244 
-L 3297 972 
-L 3284 972 
-L 2547 3244 
-L 2075 3244 
-L 1338 972 
-L 1325 972 
-L 703 3244 
-L 13 3244 
-L 1050 0 
-L 1625 0 
-L 2303 2272 
-L 2316 2272 
-L 2994 0 
-z
-" transform="scale(0.015625)"/>
-        <path id="DINAlternate-Bold-73" d="M 519 991 
-L 63 544 
-Q 697 -38 1491 -38 
-Q 2075 -31 2450 231 
-Q 2828 488 2834 959 
-Q 2834 1363 2625 1625 
-Q 2400 1894 1894 1931 
-L 1356 1972 
-Q 1119 1997 1025 2088 
-Q 922 2169 928 2278 
-Q 928 2450 1056 2559 
-Q 1178 2669 1484 2669 
-Q 1753 2669 1959 2591 
-Q 2169 2503 2356 2369 
-L 2356 2369 
-L 2759 2841 
-Q 2522 3047 2222 3169 
-Q 2066 3225 1888 3256 
-Q 1709 3284 1484 3284 
-Q 966 3284 628 3034 
-Q 281 2784 275 2284 
-Q 281 1869 544 1638 
-Q 800 1400 1209 1363 
-L 1784 1313 
-Q 1966 1306 2075 1234 
-Q 2181 1166 2181 991 
-Q 2181 794 2003 684 
-Q 1825 575 1544 575 
-Q 916 575 519 991 
-L 519 991 
-z
-" transform="scale(0.015625)"/>
-       </defs>
+      <g style="fill: #262626" transform="translate(356.44226 342.704617) rotate(-45) scale(0.1 -0.1)">
        <use xlink:href="#DINAlternate-Bold-41"/>
        <use xlink:href="#DINAlternate-Bold-20" transform="translate(60.986328 0)"/>
        <use xlink:href="#DINAlternate-Bold-66" transform="translate(84.960938 0)"/>
@@ -275,120 +387,6 @@ z
        <use xlink:href="#DINAlternate-Bold-61" transform="translate(310.839844 0)"/>
        <use xlink:href="#DINAlternate-Bold-79" transform="translate(360.214844 0)"/>
        <use xlink:href="#DINAlternate-Bold-73" transform="translate(404.599609 0)"/>
-      </g>
-     </g>
-    </g>
-    <g id="xtick_3">
-     <g id="text_3">
-      <!-- A few hours -->
-      <g style="fill: #262626" transform="translate(354.650186 346.288765) rotate(-45) scale(0.1 -0.1)">
-       <defs>
-        <path id="DINAlternate-Bold-68" d="M 422 0 
-L 1075 0 
-L 1075 1931 
-Q 1075 2272 1259 2450 
-Q 1441 2631 1722 2631 
-Q 2003 2631 2181 2450 
-Q 2363 2272 2363 1931 
-L 2363 0 
-L 3016 0 
-L 3016 2156 
-Q 3000 2713 2669 3000 
-Q 2334 3284 1931 3284 
-Q 1409 3284 1088 2900 
-L 1075 2900 
-L 1075 4556 
-L 422 4556 
-L 422 0 
-z
-" transform="scale(0.015625)"/>
-        <path id="DINAlternate-Bold-6f" d="M 263 1625 
-Q 263 1113 347 844 
-Q 434 575 616 378 
-Q 750 225 991 103 
-Q 1228 -31 1600 -38 
-Q 1984 -31 2222 103 
-Q 2350 159 2431 238 
-Q 2522 306 2584 378 
-Q 2778 575 2859 844 
-Q 2938 1113 2938 1625 
-Q 2938 2138 2859 2413 
-Q 2778 2681 2584 2866 
-Q 2456 3028 2222 3156 
-Q 1984 3278 1600 3284 
-Q 1228 3278 991 3156 
-Q 750 3028 616 2866 
-Q 434 2681 347 2413 
-Q 263 2138 263 1625 
-L 263 1625 
-z
-M 2284 1619 
-Q 2284 1288 2253 1131 
-Q 2222 972 2125 850 
-Q 2053 756 1913 684 
-Q 1778 616 1600 616 
-Q 1434 616 1294 684 
-Q 1159 756 1075 850 
-Q 991 972 953 1131 
-Q 916 1288 916 1625 
-Q 916 1966 953 2125 
-Q 991 2278 1075 2394 
-Q 1159 2503 1294 2566 
-Q 1434 2631 1600 2631 
-Q 1778 2631 1913 2566 
-Q 2053 2503 2125 2394 
-Q 2222 2278 2253 2125 
-Q 2284 1966 2284 1619 
-L 2284 1619 
-z
-" transform="scale(0.015625)"/>
-        <path id="DINAlternate-Bold-75" d="M 422 1088 
-Q 428 538 781 256 
-Q 1106 -31 1509 -38 
-Q 2028 -38 2350 347 
-L 2363 347 
-L 2363 0 
-L 3016 0 
-L 3016 3244 
-L 2363 3244 
-L 2363 1313 
-Q 2363 984 2181 800 
-Q 2003 616 1722 616 
-Q 1441 616 1259 800 
-Q 1075 984 1075 1313 
-L 1075 3244 
-L 422 3244 
-L 422 1088 
-z
-" transform="scale(0.015625)"/>
-        <path id="DINAlternate-Bold-72" d="M 422 0 
-L 1075 0 
-L 1075 1953 
-Q 1081 2309 1281 2469 
-Q 1459 2631 1709 2631 
-Q 1931 2631 2138 2469 
-L 2138 2469 
-L 2613 3034 
-Q 2322 3278 1931 3284 
-Q 1409 3284 1088 2900 
-L 1075 2900 
-L 1075 3244 
-L 422 3244 
-L 422 0 
-z
-" transform="scale(0.015625)"/>
-       </defs>
-       <use xlink:href="#DINAlternate-Bold-41"/>
-       <use xlink:href="#DINAlternate-Bold-20" transform="translate(60.986328 0)"/>
-       <use xlink:href="#DINAlternate-Bold-66" transform="translate(84.960938 0)"/>
-       <use xlink:href="#DINAlternate-Bold-65" transform="translate(112.744141 0)"/>
-       <use xlink:href="#DINAlternate-Bold-77" transform="translate(162.744141 0)"/>
-       <use xlink:href="#DINAlternate-Bold-20" transform="translate(234.960938 0)"/>
-       <use xlink:href="#DINAlternate-Bold-68" transform="translate(258.935547 0)"/>
-       <use xlink:href="#DINAlternate-Bold-6f" transform="translate(312.646484 0)"/>
-       <use xlink:href="#DINAlternate-Bold-75" transform="translate(362.646484 0)"/>
-       <use xlink:href="#DINAlternate-Bold-72" transform="translate(416.357422 0)"/>
-       <use xlink:href="#DINAlternate-Bold-73" transform="translate(455.273438 0)"/>
       </g>
      </g>
     </g>
@@ -957,26 +955,26 @@ z
    <g id="patch_3">
     <path d="M 51.197944 298.66769 
 L 157.682744 298.66769 
-L 157.682744 222.691502 
-L 51.197944 222.691502 
+L 157.682744 244.398984 
+L 51.197944 244.398984 
 z
-" clip-path="url(#p905d7bcdb6)" style="fill: #233755; opacity: 0.8; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+" clip-path="url(#pc7fcda26bd)" style="fill: #233755; opacity: 0.8; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
    </g>
    <g id="patch_4">
     <path d="M 184.303944 298.66769 
 L 290.788744 298.66769 
-L 290.788744 49.031646 
-L 184.303944 49.031646 
+L 290.788744 222.691502 
+L 184.303944 222.691502 
 z
-" clip-path="url(#p905d7bcdb6)" style="fill: #701028; opacity: 0.8; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+" clip-path="url(#pc7fcda26bd)" style="fill: #701028; opacity: 0.8; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
    </g>
    <g id="patch_5">
     <path d="M 317.409944 298.66769 
 L 423.894744 298.66769 
-L 423.894744 244.398984 
-L 317.409944 244.398984 
+L 423.894744 49.031646 
+L 317.409944 49.031646 
 z
-" clip-path="url(#p905d7bcdb6)" style="fill: #334b4b; opacity: 0.8; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+" clip-path="url(#pc7fcda26bd)" style="fill: #334b4b; opacity: 0.8; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
    </g>
    <g id="patch_6">
     <path d="M 450.515944 298.66769 
@@ -984,7 +982,7 @@ L 557.000744 298.66769
 L 557.000744 233.545243 
 L 450.515944 233.545243 
 z
-" clip-path="url(#p905d7bcdb6)" style="opacity: 0.8; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+" clip-path="url(#pc7fcda26bd)" style="opacity: 0.8; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
    </g>
    <g id="patch_7">
     <path d="M 583.621944 298.66769 
@@ -992,22 +990,22 @@ L 690.106744 298.66769
 L 690.106744 135.861574 
 L 583.621944 135.861574 
 z
-" clip-path="url(#p905d7bcdb6)" style="fill: #4f4f4f; opacity: 0.8; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+" clip-path="url(#pc7fcda26bd)" style="fill: #4f4f4f; opacity: 0.8; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
    </g>
    <g id="line2d_1">
-    <path clip-path="url(#p905d7bcdb6)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: round"/>
+    <path clip-path="url(#pc7fcda26bd)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: round"/>
    </g>
    <g id="line2d_2">
-    <path clip-path="url(#p905d7bcdb6)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: round"/>
+    <path clip-path="url(#pc7fcda26bd)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: round"/>
    </g>
    <g id="line2d_3">
-    <path clip-path="url(#p905d7bcdb6)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: round"/>
+    <path clip-path="url(#pc7fcda26bd)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: round"/>
    </g>
    <g id="line2d_4">
-    <path clip-path="url(#p905d7bcdb6)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: round"/>
+    <path clip-path="url(#pc7fcda26bd)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: round"/>
    </g>
    <g id="line2d_5">
-    <path clip-path="url(#p905d7bcdb6)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: round"/>
+    <path clip-path="url(#pc7fcda26bd)" style="fill: none; stroke: #424242; stroke-width: 2.25; stroke-linecap: round"/>
    </g>
    <g id="patch_8">
     <path d="M 37.887344 298.66769 
@@ -1020,8 +1018,14 @@ L 703.417344 298.66769
 " style="fill: none; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="text_13">
+    <!-- 5 -->
+    <g style="fill: #262626" transform="translate(101.800344 239.645905) scale(0.11 -0.11)">
+     <use xlink:href="#DINAlternate-Bold-35"/>
+    </g>
+   </g>
+   <g id="text_14">
     <!-- 7 -->
-    <g style="fill: #262626" transform="translate(101.800344 217.938423) scale(0.11 -0.11)">
+    <g style="fill: #262626" transform="translate(234.906344 217.938423) scale(0.11 -0.11)">
      <defs>
       <path id="DINAlternate-Bold-37" d="M 325 3244 
 L 978 3244 
@@ -1039,9 +1043,9 @@ z
      <use xlink:href="#DINAlternate-Bold-37"/>
     </g>
    </g>
-   <g id="text_14">
+   <g id="text_15">
     <!-- 23 -->
-    <g style="fill: #262626" transform="translate(232.266344 44.278567) scale(0.11 -0.11)">
+    <g style="fill: #262626" transform="translate(365.372344 44.278567) scale(0.11 -0.11)">
      <defs>
       <path id="DINAlternate-Bold-33" d="M 1125 2059 
 L 1400 2059 
@@ -1078,12 +1082,6 @@ z
      </defs>
      <use xlink:href="#DINAlternate-Bold-32"/>
      <use xlink:href="#DINAlternate-Bold-33" transform="translate(47.998047 0)"/>
-    </g>
-   </g>
-   <g id="text_15">
-    <!-- 5 -->
-    <g style="fill: #262626" transform="translate(368.012344 239.645905) scale(0.11 -0.11)">
-     <use xlink:href="#DINAlternate-Bold-35"/>
     </g>
    </g>
    <g id="text_16">
@@ -1440,7 +1438,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p905d7bcdb6">
+  <clipPath id="pc7fcda26bd">
    <rect x="37.887344" y="36.549844" width="665.53" height="262.117846"/>
   </clipPath>
  </defs>

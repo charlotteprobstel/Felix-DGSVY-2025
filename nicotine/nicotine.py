@@ -44,7 +44,8 @@ class Nicotine:
     
     def how_many_cigarettes_per_day(self):
         """Plot the number of cigarettes smoked per day."""
-        self.visualiser.bar_chart('Q22', xlabel = "Cigarettes per Day", title = self.headers["Q22"], sort_ascending=True)
+        order = ["<1","1-2", "3-5", "6-8", "9-11", "12-14","18-20", "20+"]
+        self.visualiser.bar_chart('Q22', xlabel = "Cigarettes per Day", title = self.headers["Q22"], sort_ascending=True, order=order)
 
     def have_you_told_your_doctor_you_smoke(self):
         """Plot if students have told their doctor they smoke."""
@@ -64,19 +65,25 @@ class Nicotine:
 
     def how_long_to_finish_600_vape_puffs(self):
         """Plot the time taken to finish 600 vape puffs."""
-        self.visualiser.bar_chart('Q27', xlabel = "Time to Finish 600 Puffs", title = self.headers["Q27"], sort_ascending=True)
+        order = ["A few hours", "A day", "A few days", "A week", "The battery dies before I finish"]
+        self.visualiser.bar_chart('Q27', xlabel = "Time to Finish 600 Puffs", title = self.headers["Q27"], sort_ascending=True, order=order)
 
     def how_much_snus_a_week(self):
         """Plot the amount of snus used per week."""
-        self.visualiser.bar_chart('Q29', xlabel = "Snus per Week", title = self.headers["Q29"], sort_ascending=True)
+        order = ["More than three daily","Two-three daily", "At least one daily", "Two-three a week", "Once a week"]
+        self.visualiser.bar_chart('Q29', xlabel = "Snus per Week", title = self.headers["Q29"], sort_ascending=True, order=order)
 
     def strength_of_snus(self):
         """Plot the strength of snus used."""
-        self.visualiser.bar_chart('Q30', xlabel = "Strength of Snus", title = self.headers["Q30"], sort_ascending=True)
+        order = ["3mg", "6mg", "8/9mg", "10mg", "10-15mg", "15-30mg", ">30mg"]
+        self.visualiser.bar_chart('Q30', xlabel = "Strength of Snus", title = self.headers["Q30"], sort_ascending=True, order=order)
     
     def dot_strength_snus(self):
         """Plot the strength of snus used."""
-        self.visualiser.bar_chart('Q31', xlabel = "Strength of Snus", title = self.headers["Q31"])
+        order = []
+        for i in range(2, 7):
+                order.append(f"{i} dot")
+        self.visualiser.bar_chart('Q31', xlabel = "Strength of Snus", title = self.headers["Q31"], order = order)
 
     def favourite_snus_brand(self):
         """Plot the favourite snus brands."""
