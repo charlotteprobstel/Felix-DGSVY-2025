@@ -1,14 +1,14 @@
 import os
 import sys
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
 from preprocessing.visualise import EDAVisualiser
-from data_loader import DataLoader
+from preprocessing.data_loader import DataLoader
 
 class AboutYou: 
 
     """Class to handle 'About You' data operations."""
 
-    def __init__(self, output_dir='about_you/plots'):
+    def __init__(self, output_dir='sections/about_you/plots'):
         """Initialize with the path to the data file."""
         # Load data
         self.DataLoader = DataLoader()

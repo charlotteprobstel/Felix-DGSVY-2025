@@ -1,14 +1,14 @@
 import os
 import sys
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
 from preprocessing.visualise import EDAVisualiser
-from data_loader import DataLoader
+from preprocessing.data_loader import DataLoader
 
 class Drugs: 
 
     """Class to handle 'Drugs' data operations."""
 
-    def __init__(self, output_dir='drugs/plots'):
+    def __init__(self, output_dir='sections/drugs/plots'):
         """Initialize with the path to the data file."""
         # Load data
         self.DataLoader = DataLoader()
@@ -31,9 +31,9 @@ class Drugs:
 
     def which_drugs_text(self): 
         extras = self.df['Q35_16_TEXT'].dropna().unique()
-        print("Extra drugs:")
-        for extra in extras:
-            print(extra)
+        with open(os.path.join(self.output_dir, 'which_drugs.txt'), 'w') as f:
+            for extra in extras:
+                f.write(f"{extra}\n")
        
     def which_drugs_combinations(self):
         """Visualise combinations of drugs used."""
@@ -41,9 +41,9 @@ class Drugs:
 
     def which_drugs_combinations_text(self):
         extras = self.df['Q36_16_TEXT'].dropna().unique()
-        print("Extra drug combinations:")
-        for extra in extras:
-            print(extra)
+        with open(os.path.join(self.output_dir, 'which_drugs_combinations.txt'), 'w') as f:
+            for extra in extras:
+                f.write(f"{extra}\n")
 
     def which_drugs_never_taken(self):
         """Visualise drugs never taken."""
@@ -51,9 +51,9 @@ class Drugs:
 
     def which_drugs_never_taken_text(self):
         extras = self.df['Q37_16_TEXT'].dropna().unique()
-        print("Extra drugs never taken:")
-        for extra in extras:
-            print(extra)
+        with open(os.path.join(self.output_dir, 'which_drugs_never_taken.txt'), 'w') as f:
+            for extra in extras:
+                f.write(f"{extra}\n")
 
     def which_drugs_like_to_try(self):
         """Visualise drugs students would like to try."""
@@ -78,16 +78,16 @@ class Drugs:
 
     def why_take_drugs_text(self):
         extras = self.df['Q42_8_TEXT'].dropna().unique()
-        print("Extra reasons for taking drugs:")
-        for extra in extras:
-            print(extra)
+        with open(os.path.join(self.output_dir, 'why_take_drugs.txt'), 'w') as f:
+            for extra in extras:
+                f.write(f"{extra}\n")
 
     def worst_time_getting_high(self):
         """Visualise worst experiences while high."""
         extras = self.df['Q43'].dropna().unique()
-        print("Extra worst experiences while high:")
-        for extra in extras:
-            print(extra)
+        with open(os.path.join(self.output_dir, 'extra_worst_time_getting_high.txt'), 'w') as f:
+            for extra in extras:
+                f.write(f"{extra}\n")
 
     def had_sex_on_drugs(self):
         """Visualise if students had"""

@@ -1,14 +1,14 @@
 import os
 import sys
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
 from preprocessing.visualise import EDAVisualiser
-from data_loader import DataLoader
+from preprocessing.data_loader import DataLoader
 
 class Nicotine: 
 
     """Class to handle 'Nicotine' data operations."""
 
-    def __init__(self, output_dir='nicotine/plots'):
+    def __init__(self, output_dir='sections/nicotine/plots'):
         """Initialize with the path to the data file."""
         # Load data
         self.DataLoader = DataLoader()
@@ -92,13 +92,9 @@ class Nicotine:
     def favourite_snus_brand_extra(self):
         """Plot the extra favourite snus brands."""
         extra_brands = self.df['Q32_10_TEXT'].dropna().unique()
-        print("Extra favourite snus brands:")
-        for brand in extra_brands:
-            print(brand)
-        ## The answers
-        """""
-        N/A
-        """""
+        with open(os.path.join(self.output_dir, 'extra_favourite_snus_brands.txt'), 'w') as f:
+            for extra in extra_brands:
+                f.write(f"{extra}\n")
 
     def why_use_nicotine(self):
         """Plot the reasons for using nicotine products."""
@@ -107,14 +103,9 @@ class Nicotine:
     def why_use_nicotine_extra(self):
         """Plot the extra reasons for using nicotine products."""
         extra_reasons = self.df['Q33_6_TEXT'].dropna().unique()
-        print("Extra reasons for using nicotine products:")
-        for reason in extra_reasons:
-            print(reason)
-        
-        ## The answers
-        """
-        N/A
-        """
+        with open(os.path.join(self.output_dir, 'extra_why_use_nicotine.txt'), 'w') as f:
+            for extra in extra_reasons:
+                f.write(f"{extra}\n")
     
     def have_you_tried_quitting(self):
         """Plot if students have tried quitting nicotine."""

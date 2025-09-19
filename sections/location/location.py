@@ -1,14 +1,14 @@
 import os
 import sys
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
 from preprocessing.visualise import EDAVisualiser
-from data_loader import DataLoader
+from preprocessing.data_loader import DataLoader
 
 class Location: 
 
     """Class to handle 'Location' data operations."""
 
-    def __init__(self, output_dir='location/plots'):
+    def __init__(self, output_dir='sections/location/plots'):
         """Initialize with the path to the data file."""
         # Load data
         self.DataLoader = DataLoader()
@@ -35,9 +35,9 @@ class Location:
 
     def which_drugs_on_campus_text(self): 
         extras = self.df['Q48_16_TEXT'].dropna().unique()
-        print("Extra drugs on campus:")
-        for extra in extras:
-            print(extra)
+        with open(os.path.join(self.output_dir, 'which_drugs_on_campus.txt'), 'w') as f:
+            for extra in extras:
+                f.write(f"{extra}\n")
 
 
     def plot_all(self):

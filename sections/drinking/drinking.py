@@ -1,14 +1,14 @@
 import os
 import sys
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
 from preprocessing.visualise import EDAVisualiser
-from data_loader import DataLoader
+from preprocessing.data_loader import DataLoader
 
 class Drinking: 
 
     """Class to handle 'Drinking' data operations."""
 
-    def __init__(self, output_dir='drinking/plots'):
+    def __init__(self, output_dir='sections/drinking/plots'):
         """Initialize with the path to the data file."""
         # Load data
         self.DataLoader = DataLoader()
@@ -53,23 +53,9 @@ class Drinking:
     def plot_why_drink_extra(self):
         """Plot the extra reasons for drinking distribution."""
         extra_reasons = self.df['Q14_6_TEXT'].dropna().unique()
-        print("Extra reasons for drinking:")
-        for reason in extra_reasons:
-            print(reason)
-        
-        ## The answers
-        """
-        To drown my sorrows 
-        To pull
-        To get out of my head for a bit
-        quench thirst
-        For the mood
-        I am an alcoholic 
-        To bare social interaction 
-        Fun with friends
-        Because my family do
-        Because I want to
-        """
+        with open(os.path.join(self.output_dir, 'extra_why_drink.txt'), 'w') as f:
+            for extra in extra_reasons:
+                f.write(f"{extra}\n")
 
     def plot_if_ill_from_drinking(self):
         """Plot if students feel ill from drinking."""

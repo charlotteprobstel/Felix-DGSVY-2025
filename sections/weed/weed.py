@@ -1,14 +1,14 @@
 import os
 import sys
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
 from preprocessing.visualise import EDAVisualiser
-from data_loader import DataLoader
+from preprocessing.data_loader import DataLoader
 
 class Weed: 
 
     """Class to handle 'Weed' data operations."""
 
-    def __init__(self, output_dir='weed/plots'):
+    def __init__(self, output_dir='sections/weed/plots'):
         """Initialize with the path to the data file."""
         # Load data
         self.DataLoader = DataLoader()
@@ -43,9 +43,10 @@ class Weed:
 
     def which_type_of_edibles_text(self):
         extras = self.df['Q53_4_TEXT'].dropna().unique()
-        print("Extra types of edibles:")
-        for extra in extras:
-            print(extra)
+        # Save to txt file
+        with open(os.path.join(self.output_dir, 'extra_types_of_edibles.txt'), 'w') as f:
+            for extra in extras:
+                f.write(f"{extra}\n")
 
     def have_you_ever_ingested_spice(self):
         """Visualise if students have ever ingested spice."""
@@ -57,9 +58,9 @@ class Weed:
 
     def where_do_you_get_your_drugs_text(self):
         extras = self.df['Q55_6_TEXT'].dropna().unique()
-        print("Extra sources of drugs:")
-        for extra in extras:
-            print(extra)
+        with open(os.path.join(self.output_dir, 'extra_sources_of_drugs.txt'), 'w') as f:
+            for extra in extras:
+                f.write(f"{extra}\n")
 
     def how_close_to_your_deeler(self):
         """Visualise how close students are to their dealer."""
@@ -67,9 +68,9 @@ class Weed:
 
     def how_close_to_your_deeler_text(self):
         extras = self.df['Q56_4_TEXT'].dropna().unique()
-        print("Extra closeness to dealer responses:")
-        for extra in extras:
-            print(extra)
+        with open(os.path.join(self.output_dir, 'extra_closeness_to_dealer.txt'), 'w') as f:
+            for extra in extras:
+                f.write(f"{extra}\n")
 
     def how_to_contact_your_plug(self):
         """Visualise how students contact their plug."""
@@ -77,9 +78,9 @@ class Weed:
 
     def how_to_contact_your_plug_text(self):
         extras = self.df['Q57_6_TEXT'].dropna().unique()
-        print("Extra methods of contacting plug:")
-        for extra in extras:
-            print(extra)
+        with open(os.path.join(self.output_dir, 'extra_methods_of_contacting_plug.txt'), 'w') as f:
+            for extra in extras:
+                f.write(f"{extra}\n")
 
     def plot_all(self):
         self.how_do_you_smoke_your_weed()

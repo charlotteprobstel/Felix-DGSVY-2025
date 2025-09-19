@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-from data_loader import DataLoader
+from preprocessing.data_loader import DataLoader
 import json
 
 class NumpyEncoder(json.JSONEncoder):
